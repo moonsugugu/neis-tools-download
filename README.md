@@ -4,9 +4,11 @@
 
 ## 설치 없이 실행
 
-**[무설치 EXE 바로 다운로드](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.3-portable.exe)**
+**[무설치 EXE 바로 다운로드 — 고정 주소](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools.exe)**
 
 파일 하나를 내려받아 실행하세요. 설치나 Python 설치가 필요하지 않습니다.
+
+고정 주소에는 버전 번호가 없으며, 최신 릴리스마다 같은 파일 이름을 사용합니다. 이전에 공유한 `neis-tools-5.0.0-portable.exe`, `neis-tools-5.0.2-setup.exe`, `neis-tools-5.0.2-x64.zip`의 `/releases/latest/download/…` 주소도 호환용 파일 이름으로 최신 내용을 제공합니다. 호환 파일 이름에 적힌 예전 버전과 실제 앱 버전은 다를 수 있습니다.
 
 - [폴더형 ZIP](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.3-x64.zip): 전체 압축을 풀고 `방학이보이는나이스도우미.exe`를 실행하세요. 내부 파일 `neis-tools-runtime.exe`를 직접 실행하지 마세요.
 - [Windows 설치형](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.3-setup.exe)
