@@ -4,12 +4,12 @@
 
 ## 다운로드
 
-**[Windows 실행 파일 바로 다운로드](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.0-portable.exe)**
+**[Windows 설치 파일 바로 다운로드](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.2-setup.exe)**
 
 - [최신 릴리스와 파일 목록](https://github.com/moonsugugu/neis-tools-download/releases/latest)
 - [SHA-256 체크섬](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/SHA256SUMS.txt)
 
-설치 없이 내려받은 실행 파일을 실행하세요. Python은 별도로 설치할 필요가 없습니다.
+내려받은 설치 파일을 실행한 뒤 앱을 열어 주세요. Python은 별도로 설치할 필요가 없습니다. 단일 portable EXE(5.0.0)의 시작 오류를 고친 버전입니다.
 
 ## 주요 기능
 
@@ -23,3 +23,8 @@
 이 저장소는 공개 다운로드와 버전별 실행 파일 배포용입니다.
 
 made by [문수네집](https://moonsunezipbrand.vercel.app) · [Instagram](https://www.instagram.com/moonsune.zip/) · [moonsune.zip](https://moonsunezip.com)
+
+설치 없이 쓰려면 [ZIP 파일](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.2-x64.zip) 전체를 일반 폴더에 압축 해제하고 폴더 안의 실행 파일을 실행하세요.
+
+나이스의 **학급담임 → 성적 → 성적조회 → 교과별성적조회 → 엑셀로 저장**으로 저장한 엑셀 파일을 마스킹 탭에 올리세요. 생성된 마스킹 파일을 성적처리기에 올리면 학생 번호순으로 평어를 생성할 수 있습니다.
+
