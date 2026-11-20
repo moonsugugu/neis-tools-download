@@ -8,6 +8,7 @@
 | `neis-tools-5.0.0-portable.exe` | 최신 무설치 EXE, 이전 공유 주소 호환 |
 | `neis-tools-5.0.2-setup.exe` | 최신 설치형 EXE, 이전 공유 주소 호환 |
 | `neis-tools-5.0.2-x64.zip` | 최신 ZIP, 이전 공유 주소 호환 |
+| `neis-tools-5.0.4-portable.exe`, `neis-tools-5.0.4-setup.exe`, `neis-tools-5.0.4-x64.zip` | 5.0.4 때 공유한 주소 호환 (5.0.5부터) |
 
 새 버전의 원래 이름을 가진 파일과 함께 위 이름으로 복사한 파일을 업로드한다. `SHA256SUMS.txt`에 호환 파일 이름도 포함하고 최신 릴리스로 지정한다. 호환 파일은 이름만 다르고 해당 최신 원본과 SHA-256이 같아야 한다.
 

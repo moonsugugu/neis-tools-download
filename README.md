@@ -8,12 +8,14 @@
 
 파일 하나를 내려받아 실행하세요. 설치나 Python 설치가 필요하지 않습니다.
 
-고정 주소에는 버전 번호가 없으며, 최신 릴리스마다 같은 파일 이름을 사용합니다. 이전에 공유한 `neis-tools-5.0.0-portable.exe`, `neis-tools-5.0.2-setup.exe`, `neis-tools-5.0.2-x64.zip`의 `/releases/latest/download/…` 주소도 호환용 파일 이름으로 최신 내용을 제공합니다. 호환 파일 이름에 적힌 예전 버전과 실제 앱 버전은 다를 수 있습니다.
+고정 주소에는 버전 번호가 없으며, 최신 릴리스마다 같은 파일 이름을 사용합니다. 이전에 공유한 `neis-tools-5.0.0-portable.exe`, `neis-tools-5.0.2-setup.exe`, `neis-tools-5.0.2-x64.zip`, `neis-tools-5.0.4-portable.exe`, `neis-tools-5.0.4-setup.exe`, `neis-tools-5.0.4-x64.zip`의 `/releases/latest/download/…` 주소도 호환용 파일 이름으로 최신 내용을 제공합니다. 호환 파일 이름에 적힌 예전 버전과 실제 앱 버전은 다를 수 있습니다.
 
-- [폴더형 ZIP](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.3-x64.zip): 전체 압축을 풀고 `방학이보이는나이스도우미.exe`를 실행하세요. 내부 파일 `neis-tools-runtime.exe`를 직접 실행하지 마세요.
-- [Windows 설치형](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.3-setup.exe)
+- [폴더형 ZIP](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.5-x64.zip): 전체 압축을 풀고 `방학이보이는나이스도우미.exe`를 실행하세요. 내부 파일 `neis-tools-runtime.exe`를 직접 실행하지 마세요.
+- [Windows 설치형](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/neis-tools-5.0.5-setup.exe)
 - [항상 최신 릴리스](https://github.com/moonsugugu/neis-tools-download/releases/latest)
 - [SHA-256 체크섬](https://github.com/moonsugugu/neis-tools-download/releases/latest/download/SHA256SUMS.txt)
+
+**실행했는데 화면이 안 떠요**: 설치 없는 EXE는 켤 때마다 안의 파일을 먼저 풀어서 학교 PC에서는 1분 가까이 걸릴 수 있습니다. 5.0.5부터는 그동안 "켜는 중이에요" 안내 그림이 뜹니다. 여러 번 누르지 말고 기다려 주세요. 그래도 안 뜨면 작업 관리자(`Ctrl+Shift+Esc`)에서 나이스 도우미를 모두 끝낸 뒤 **Windows 설치형**을 쓰거나, 백신(알약·V3) 검사 기록에서 막힌 파일이 없는지 확인해 주세요. 5.0.5는 일부 그래픽·원격 PC에서 창이 투명하게 보이지 않던 문제도 보완했습니다.
 
 5.0.3은 바탕화면·임시 폴더의 AppContainer 권한 때문에 이전 무설치판이 시작 전에 종료되던 문제를 보완했습니다. 실행기가 앱 폴더의 필요한 읽기·실행 권한만 확인하며 보안 샌드박스는 유지합니다. 바탕화면·임시 폴더 전체 권한은 바꾸지 않습니다.
 
